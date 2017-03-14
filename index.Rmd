@@ -11,7 +11,7 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
 
-## Platforms for Distribution of Digital Music
+## Distribution Platforms for Digital Music
 * Selling: [Amazon](https://www.amazon.com/gp/help/customer/display.html?nodeId=14061761),
   [Bandcamp](https://bandcamp.com/fair_trade_music_policy),
   [Beatport](https://about.beatport.com/contact-us/),
@@ -29,12 +29,4 @@ knit        : slidify::knit2slides
 
 ---
 
-## Test page
-* Here's a point
-* Here's another point
 
----
-
-## New Test page
-* point 1
-* point 2
