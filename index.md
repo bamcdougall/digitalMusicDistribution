@@ -11,7 +11,7 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
 
-## Distribution Platforms for Digital Music
+## Platforms for Distribution of Digital Music
 * Selling: [Amazon](https://www.amazon.com/gp/help/customer/display.html?nodeId=14061761),
   [Bandcamp](https://bandcamp.com/fair_trade_music_policy),
   [Beatport](https://about.beatport.com/contact-us/),
@@ -29,9 +29,6 @@ knit        : slidify::knit2slides
 
 ---
 
-<<<<<<< HEAD
-
-=======
 ## U.S. Recorded Music Industry
 * [Industry Report](https://www.riaa.com/reports/riaa-2015-year-end-sales-shipments-data-report-riaa/)
   reports Market Size for 2015 at $4.95B
@@ -66,4 +63,3 @@ Subscription| $0.44 | $0.05 | $0.04
 Free        | $0.13 | $0.01 | $0.01
 
 * For artist/songwriter, $1k / month revenue stream requires 20k subsribers
->>>>>>> master
