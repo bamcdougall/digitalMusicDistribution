@@ -26,6 +26,7 @@ knit        : slidify::knit2slides
   [Whatpeopleplay](https://www.whatpeopleplay.com)
 * Streaming:   [Soundcloud](https://on.soundcloud.com/about), 
   [Mixcloud](https://www.mixcloud.com/about/)
+
 ---
 
 ## U.S. Recorded Music Industry
