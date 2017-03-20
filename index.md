@@ -42,10 +42,25 @@ knit        : slidify::knit2slides
 
 ## Labels
 
-### Big Three Labels
-* Sony
-* Universal
-* Warner
+### Big Three Recording Labels
+* Table shows percentage of global record label revenue and revenue for the 
+Big Three Recording Labels
+
+Recording Label | % Global Recording Revenue (2016)^1 | Global Recording Revenue^2
+---|---|---
+Universal | 28.9% | $5.57B
+Sony | 22.4% | $4.32B
+Warner | 17.4% | $3.35
+Independents | 31.3% | $6.03
+
+1.  GLOBAL MARKET SHARES 2016: SONY AND WARNER GAIN ON UNIVERSAL, AS INDIES RULE
+[Music Business Worldwide](http://www.musicbusinessworldwide.com/global-market-shares-2016-sony-and-warner-gain-on-universal-as-indies-rule/)
+2. Universal Music 2016 Earnings: Streaming Drove Revenue Growth for Recordings,
+Publishing, [Billboard](http://www.billboard.com/articles/business/7701980/universal-music-group-2016-earnings-streaming)
+
+---
+
+## Labels
 
 ### Dominant Independent Labels^1
 * ATO Records, Big Machine, Broken Bow Records, Concord, CURB,
@@ -77,7 +92,46 @@ DJ Event | 5% | 5% | 11%
 
 ---
 
-## Musician
+## Income Profile of Musicians
+* In Oakland-Hayward-Berkeley, CA Metropolitan Division, average hourly wage is 
+$48.12 for a population of 440 employees^1
+* From a 2011 academic survey, the hourly and annual compensation is shown
+in the following table:^2
+
+Compensation | Mean | Median
+---|---|---
+Hourly | $28.91 | $20.07
+Annual | $55,561 | $50,000
+
+* From May 2015, the national mean hourly wage is $33.62 with distribution shown
+in the following table:^1
+
+Percentile | 10% | 25% | 50% (median) | 75% | 90%
+ ---|---|---|---|---|---
+ Hourly Wage | $9.20 | $13.20 | $24.20 | $44.01 | $68.98
+ 
+
+1. Occupational Employment Statistics: Musicians and Singers, BUREAU
+LABOR STATS. (2015), [link](http://www.bls.gov/oes/current/oes272042.htm)
+2. Peter C. DiCola, "Money from Music: Survey Evidence on Musicians'
+Revenue and Lessons About Copyright Incentives", 55 Arizona Law Review 301
+(2013) [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2199058)
+
+
+---
+
+## Work Profile of Musicians
+* Table shows revenue from major sources for Rock, Pop, and other musicians,
+but excludes
+Classical, Jazz, and Composers
+
+Composing | Recording | Session Work | Live Perf. | Merchanidse | Salary | Teaching | Other | Total
+---|---|---|---|---|---|---|---|---|---
+$3,088 | $2,234 | $4,118 | $8,176 | $588 | $3,235 | $4,412 | $2,029 | $27,970
+
+1. Peter C. DiCola, "Money from Music: Survey Evidence on Musicians'
+Revenue and Lessons About Copyright Incentives", 55 Arizona Law Review 301
+(2013) [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2199058)
 
 ---
 
@@ -134,8 +188,15 @@ Free        | $0.13 | $0.01 | $0.01
 * For artist/songwriter, $1k / month revenue stream requires 20k subscribers
 * Reach vs Engagement is the new Sales vs Airplay
 * Best perspective: marketing campaign that pays for itself
+* Some industry analysts are predicting closure of iTunes music sales in
+favor of streaming by 2020
 
 ---
 
 ## Conclusions
-* Recorded music small part of revenue stream for musicians
+* Recorded music is less than 1/3 of total revenue stream for musicians excluding
+composers, classical, and jazz musicians
+* Live performance is dominant revenue stream for musicians excluding
+composers, classical, and jazz musicians
+* Bandcamp may be best platform for distributing digital music sales by an
+independent musician without strong label backing
