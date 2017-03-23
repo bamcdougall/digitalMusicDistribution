@@ -13,14 +13,17 @@ knit        : slidify::knit2slides
 
 ## Outline
 * Market Size of US Music Industry 2015
+* Competitive Landscape of Recording Labels
 * Profile of American Music Consumer 2015
-* Income Streams for Musician
-* Digital Music Platforms
+* Income Profile of Musicians
+* Work Profile of Musicians
+* Benefits of Streaming Music for Musicians
+* Platforms for Distribution of Digital Music
 * Conclusions
 
 ---
 
-## U.S. Recorded Music Industry
+## Market Size of US Music Industry 2015
 * [Recording Industry Association of America](https://www.riaa.com/reports/riaa-2015-year-end-sales-shipments-data-report-riaa/) (RIAA)
   reports Market Size for 2015 at $4.95B
 * Digital Format is 71.2% of market size ($3.52B)
@@ -40,7 +43,7 @@ knit        : slidify::knit2slides
 
 ---
 
-## Labels
+## Competitive Landscape of Recording Labels
 
 ### Big Three Recording Labels
 * Table shows percentage of global record label revenue and revenue for the 
@@ -49,31 +52,35 @@ Big Three Recording Labels
 Recording Label | % Global Recording Revenue (2016)^1 | Global Recording Revenue^2
 ---|---|---
 Universal | 28.9% | $5.57B
-Sony | 22.4% | $4.32B
-Warner | 17.4% | $3.35
-Independents | 31.3% | $6.03
+Sony | 22.4% | $4.32B^3
+Warner | 17.4% | $3.35^3
+Independents | 31.3% | $6.03^3
 
 1.  GLOBAL MARKET SHARES 2016: SONY AND WARNER GAIN ON UNIVERSAL, AS INDIES RULE
 [Music Business Worldwide](http://www.musicbusinessworldwide.com/global-market-shares-2016-sony-and-warner-gain-on-universal-as-indies-rule/)
 2. Universal Music 2016 Earnings: Streaming Drove Revenue Growth for Recordings,
 Publishing, [Billboard](http://www.billboard.com/articles/business/7701980/universal-music-group-2016-earnings-streaming)
+3. Estimated from the firm's % Global Recording Revenue and Universal's Global Recording Revenue
 
 ---
 
-## Labels
+## Competitive Landscape of Recording Labels
 
-### Dominant Independent Labels^1
-* ATO Records, Big Machine, Broken Bow Records, Concord, CURB,
-  Disney / Hollywood / Buena, Epitaph, Glassnote, Razor & Tie, Wind Up
+Dominant |  Independent  |   Labels^1
+---|---|---
+ATO Records | Big Machine | Broken Bow Records
+Concord | CURB | Disney
+Hollywood |Buena | Epitaph
+Glassnote  | Razor & Tie | Wind Up
 
 1. IFPI Recording Industry in Numbers 2012
 
 ---
 
-## Consumer
+## Profile of American Music Consumer 2015
 * Listeners (91% of Americans) hear an average 24 hours music per week^1
 * 61% of listeners are older than 30 yrs^2
-* Tabular Summary of Annual Music Consumption^1
+* Summary of Annual Music Consumption^1
 
 Item | Total | Teens (13-17) | Millenials (18-34)
 ---|---|---|---
@@ -93,41 +100,39 @@ DJ Event | 5% | 5% | 11%
 ---
 
 ## Income Profile of Musicians
-* In Oakland-Hayward-Berkeley, CA Metropolitan Division, average hourly wage is 
-$48.12 for a population of 440 employees^1
-* From a 2011 academic survey, the hourly and annual compensation is shown
-in the following table:^2
+* Hourly and Annual compensation for Musicians^1
 
 Compensation | Mean | Median
 ---|---|---
 Hourly | $28.91 | $20.07
 Annual | $55,561 | $50,000
 
-* From May 2015, the national mean hourly wage is $33.62 with distribution shown
-in the following table:^1
+* Distribution of Hourly Wage for Musicians^2
 
-Percentile | 10% | 25% | 50% (median) | 75% | 90%
- ---|---|---|---|---|---
- Hourly Wage | $9.20 | $13.20 | $24.20 | $44.01 | $68.98
+Percentile | 10% | 25% | 50% (median) | Mean | 75% | 90%
+ ---|---|---|---|---|---|---
+ Hourly Wage | $9.20 | $13.20 | $24.20 | $33.62 | $44.01 | $68.98
  
+* In Oakland-Hayward-Berkeley, CA Metropolitan Division, average hourly wage is 
+$48.12 for a population of 440 employees^1
 
-1. Occupational Employment Statistics: Musicians and Singers, BUREAU
-LABOR STATS. (2015), [link](http://www.bls.gov/oes/current/oes272042.htm)
-2. Peter C. DiCola, "Money from Music: Survey Evidence on Musicians'
+1. Peter C. DiCola, "Money from Music: Survey Evidence on Musicians'
 Revenue and Lessons About Copyright Incentives", 55 Arizona Law Review 301
 (2013) [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2199058)
+2. Occupational Employment Statistics: Musicians and Singers, BUREAU
+LABOR STATS. (2015), [link](http://www.bls.gov/oes/current/oes272042.htm)
 
 
 ---
 
 ## Work Profile of Musicians
-* Table shows revenue from major sources for Rock, Pop, and other musicians,
-but excludes
-Classical, Jazz, and Composers
+* Revenue from major sources for Rock, Pop, and other musicians,
+but excluding Classical & Jazz musicians, and Composers^1
 
 Composing | Recording | Session Work | Live Perf. | Merchanidse | Salary | Teaching | Other | Total
----|---|---|---|---|---|---|---|---|---
+---|---|---|---|---|---|---|---|---
 $3,088 | $2,234 | $4,118 | $8,176 | $588 | $3,235 | $4,412 | $2,029 | $27,970
+11% | 8% | 15% | 29% | 2% | 12% | 16% | 7% | 100%
 
 1. Peter C. DiCola, "Money from Music: Survey Evidence on Musicians'
 Revenue and Lessons About Copyright Incentives", 55 Arizona Law Review 301
@@ -135,49 +140,8 @@ Revenue and Lessons About Copyright Incentives", 55 Arizona Law Review 301
 
 ---
 
-## Platforms for Distribution of Digital Music
-* Selling: [Amazon](https://www.amazon.com/gp/help/customer/display.html?nodeId=14061761),
-  [Bandcamp](https://bandcamp.com/fair_trade_music_policy),
-  [Beatport](https://about.beatport.com/contact-us/),
-  [Bleep](https://bleep.com/faqs),
-  [CDbaby](https://members.cdbaby.com/sell-music),
-  [Google Play](play.google.com/artists),
-  [Itunes](https://www.apple.com/itunes/working-itunes/sell-content/music-faq.html),
-  [Juno](https://lms.juno.co.uk/lms/login.php),
-  [MondoTunes](http://www.mondotunes.com/sell-your-music),
-  [Nimbit](http://www.nimbit.com/),
-  [Traxsource](http://support.traxsource.com/article/how-can-i-sell-my-music-on-traxsource),
-  [Whatpeopleplay](https://www.whatpeopleplay.com)
-* Streaming:   [Soundcloud](https://on.soundcloud.com/about), 
-  [Mixcloud](https://www.mixcloud.com/about/)
-* [Listing of digital platforms](http://whymusicmatters.com/find-music) recognized by RIAA
-* [Listing of digital platforms](http://www.pro-music.org/legal-music-services-north-america.php) recognized by artists, labels, & publishers
-
----
-
-## Summary of Digital Platforms
-
-Store | Number of Tracks [M] | Sales
-------|---|---
-iTunes |  43  | 
-Windows Store | 40 | 
-Google Play Music | 40 | 
-Qobuz | 28 | 
-7digital | 27 | 
-Amazon Music | 20 | 
-Bandcamp | 18.1 |
-eMusic | 17 | 
-WiMP | 13 | 
-GhostTunes | 10 | 
-mora | 4.4 | 
-CDBaby | 3 | 
-Beaport | 2 | 
-Nimbit | 1 | 
-
----
-
-## Streaming Music
-* [Summary of Revenue Stream](https://musicindustryblog.wordpress.com/2016/04/26/after-the-album-how-playlists-are-re-defining-listening/)
+## Benefits of Streaming Music for Musicians
+* Summary of Revenue Stream^1
 
 Stream Type | Royalty per album per user | Artist Share | Songwriter Share
 ------------|-------------------|--------------|----------------
@@ -189,7 +153,44 @@ Free        | $0.13 | $0.01 | $0.01
 * Reach vs Engagement is the new Sales vs Airplay
 * Best perspective: marketing campaign that pays for itself
 * Some industry analysts are predicting closure of iTunes music sales in
-favor of streaming by 2020
+favor of streaming by 2020^2
+
+1. Music Industry Blog, "After The Album: How Playlists Are Re-Defining Listening", April 2016, [link](https://musicindustryblog.wordpress.com/2016/04/26/after-the-album-how-playlists-are-re-defining-listening/)
+2. Paul Resnikoff, "Apple Terminating Music Downloads 'Within 2 Years'", Digital Music News, May 2016, [link](http://www.digitalmusicnews.com/2016/05/11/apple-terminating-music-downloads-two-years/)
+
+---
+
+## [Platforms for Distribution of Digital Music](https://en.wikipedia.org/wiki/Comparison_of_online_music_stores)
+
+Store | Number of Tracks [M] | Sales
+------|---|---
+[Itunes](https://www.apple.com/itunes/working-itunes/sell-content/music-faq.html) |  43  | 
+Windows Store | 40 | 
+[Google Play Music](play.google.com/artists) | 40 | 
+Qobuz | 28 | 
+7digital | 27 | 
+[Amazon Music](https://www.amazon.com/gp/help/customer/display.html?nodeId=14061761) | 20 | 
+[Bandcamp](https://bandcamp.com/fair_trade_music_policy) | 18.1 |
+eMusic | 17 | 
+WiMP | 13 | 
+GhostTunes | 10 | 
+mora | 4.4 | 
+[CDbaby](https://members.cdbaby.com/sell-music) | 3 | 
+[Beatport](https://about.beatport.com/contact-us/) | 2 | 
+[Nimbit](http://www.nimbit.com/) | 1 | 
+
+---
+
+## Additional Platforms for Distribution of Digital Music
+* Selling: [Bleep](https://bleep.com/faqs),
+  [Juno](https://lms.juno.co.uk/lms/login.php),
+  [MondoTunes](http://www.mondotunes.com/sell-your-music),
+  [Traxsource](http://support.traxsource.com/article/how-can-i-sell-my-music-on-traxsource),
+  [Whatpeopleplay](https://www.whatpeopleplay.com)
+* Streaming:   [Soundcloud](https://on.soundcloud.com/about), 
+  [Mixcloud](https://www.mixcloud.com/about/)
+* [Listing of digital platforms](http://whymusicmatters.com/find-music) recognized by RIAA
+* [Listing of digital platforms](http://www.pro-music.org/legal-music-services-north-america.php) recognized by artists, labels, & publishers
 
 ---
 
