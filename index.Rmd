@@ -1,6 +1,6 @@
 ---
 title       : Digital Music Distribution
-subtitle    : Comparison of Several Platforms
+subtitle    : Analyses for Independent Musicians
 author      : B.A. McDougall
 job         : NSCI Consulting
 framework   : io2012     # {io2012, html5slides, shower, dzslides, ...}
@@ -72,6 +72,9 @@ ATO Records | Big Machine | Broken Bow Records
 Concord | CURB | Disney
 Hollywood |Buena | Epitaph
 Glassnote  | Razor & Tie | Wind Up
+
+[List](http://www.hawaiianmusichistory.com/recordings/record-companies.htm) of 
+Hawaiian Music Record Companies
 
 1. IFPI Recording Industry in Numbers 2012
 
@@ -162,22 +165,22 @@ favor of streaming by 2020^2
 
 ## [Platforms for Distribution of Digital Music](https://en.wikipedia.org/wiki/Comparison_of_online_music_stores)
 
-Store | Number of Tracks [M] | Sales
-------|---|---
-[Itunes](https://www.apple.com/itunes/working-itunes/sell-content/music-faq.html) |  43  | 
-Windows Store | 40 | 
-[Google Play Music](play.google.com/artists) | 40 | 
-Qobuz | 28 | 
-7digital | 27 | 
-[Amazon Music](https://www.amazon.com/gp/help/customer/display.html?nodeId=14061761) | 20 | 
-[Bandcamp](https://bandcamp.com/fair_trade_music_policy) | 18.1 |
-eMusic | 17 | 
-WiMP | 13 | 
-GhostTunes | 10 | 
-mora | 4.4 | 
-[CDbaby](https://members.cdbaby.com/sell-music) | 3 | 
-[Beatport](https://about.beatport.com/contact-us/) | 2 | 
-[Nimbit](http://www.nimbit.com/) | 1 | 
+Store | Track Count [M] | Ownership | Sales (2016) | Fees | Right to Withdraw
+------|---|---|---|---|---
+[Itunes](https://www.apple.com/itunes/working-itunes/sell-content/music-faq.html) |  43  | Public | | | 
+Windows Store | 40 | Public |  | | 
+[Google Play Music](play.google.com/artists) | 40 | Public |  | | 
+Qobuz | 28 |  | | | 
+7digital | 27 | Public | $17.2M | | 
+[Amazon Music](https://www.amazon.com/gp/help/customer/display.html?nodeId=14061761) | 20 | Public |  | | 
+[Bandcamp](https://bandcamp.com/fair_trade_music_policy) | 18.1 | Private |  | | 
+eMusic | 17 |  |  | | 
+WiMP | 13 |  |  | | 
+GhostTunes | 10 |  |  | | 
+mora | 4.4 |  |  | | 
+[CDbaby](https://members.cdbaby.com/sell-music) | 3 |  | | 15% | Yes
+[Beatport](https://about.beatport.com/contact-us/) | 2 |  | | | 
+[Nimbit](http://www.nimbit.com/) | 1 |  | | |
 
 ---
 
