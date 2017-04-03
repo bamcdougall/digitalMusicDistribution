@@ -20,6 +20,7 @@ knit        : slidify::knit2slides
 * Benefits of Streaming Music for Musicians
 * Platforms for Distribution of Digital Music
 * Conclusions
+* Detailed Recommendations
 
 ---
 
@@ -73,7 +74,7 @@ Concord | CURB | Disney
 Hollywood |Buena | Epitaph
 Glassnote  | Razor & Tie | Wind Up
 
-[List](http://www.hawaiianmusichistory.com/recordings/record-companies.htm) of 
+Separately, [List](http://www.hawaiianmusichistory.com/recordings/record-companies.htm) of 
 Hawaiian Music Record Companies
 
 1. IFPI Recording Industry in Numbers 2012
@@ -197,10 +198,56 @@ mora | 4.4 |  |  | |
 
 ---
 
+## New Disrupting Platform
+
+### [Distrokid](https://distrokid.com/) changes pricing for distribution by musicians to aggregating stores, e.g. iTunes, Amazon
+
+* Existing Competitor Pricing Model:  per track or per album fees with revenue sharing
+* New Pricing Model:  Low annual subscription fee with unlimited uploads & no revenue sharing $\Longrightarrow$ more earned income goes directly to artist
+
+---
+
 ## Conclusions
-* Recorded music is less than 1/3 of total revenue stream for musicians excluding
-composers, classical, and jazz musicians
+
 * Live performance is dominant revenue stream for musicians excluding
 composers, classical, and jazz musicians
-* Bandcamp may be best platform for distributing digital music sales by an
+* Recorded music is less than 1/3 of total revenue stream for musicians excluding
+composers, classical, and jazz musicians
+* Bandcamp may be best platform for direct digital music sales by an
 independent musician without strong label backing
+* Distrokid may be best platform for digital music distribution to dominant
+online sales platforms, e.g. Itunes, Amazon Music
+* Detailed Recommendations are shown in following two slides
+
+---
+
+## Detailed Recommendations (Page 1 of 2)
+
+* Establish distribution account on [Distrokid](https://distrokid.com/) for 
+distribution of digital music
+* Establish either label or artist presence on 
+[Bandcamp](https://bandcamp.com/fair_trade_music_policy) for direct sales and for 
+creating digital download codes
+* 
+
+---
+
+## Detailed Recommendations (Page 2 of 2)
+* Develop touring network within social network
+
+1. Leverage musicans within social network that live in different cities book 
+club dates for your performance
+2. Stay with those musicians to reduce cost of touring
+3. Provide similar resources to those musicans in your hometown
+
+* Target merchandising for sales at live performances
+
+1. Generate 4 pg CD jacket that enables digital downloads, but sells at cost of 
+physical CD
+2. Front page - Musician portrait or typical cover art
+3. Inside left page - Intentionally blank for autograph by artist
+4. Inside right page - License code that enables single-use download of single 
+track or album
+5. Back page - Additional artwork and legal disclosures
+6. Package CD jacket in cellophane wrapper
+7. Format enables music sales, but less cumbersome than actual CDs
