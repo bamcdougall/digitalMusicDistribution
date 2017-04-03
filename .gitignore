@@ -1,0 +1,13 @@
+# No csv files
+# *.gitignore
+# *.csv
+*.Rdata
+*.Rhistory
+*.zip
+*.bz2
+*.xlsx
+# *.html
+*.pdf
+# *.Rmd
+# *.txt
+# *.png
