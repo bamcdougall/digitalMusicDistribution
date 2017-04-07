@@ -251,3 +251,10 @@ track or album
 5. Back page - Additional artwork and legal disclosures
 6. Package CD jacket in cellophane wrapper
 7. Format enables music sales, but less cumbersome than actual CDs
+
+---
+
+## Survey 
+* Please click the [Link](https://goo.gl/forms/hfLuFQSti5xIxs8J2) to our survey
+that is hosted on Google
+* Your survey responses help improve this presentation
