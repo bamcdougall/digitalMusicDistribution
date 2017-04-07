@@ -20,7 +20,8 @@ knit        : slidify::knit2slides
 * Benefits of Streaming Music for Musicians
 * Platforms for Distribution of Digital Music
 * Conclusions
-* Detailed Recommendations
+* Strategic Plan
+* Survey
 
 ---
 
@@ -200,7 +201,7 @@ mora | 4.4 |  |  | |
 
 ## New Disrupting Platform
 
-### [Distrokid](https://distrokid.com/) changes pricing for distribution by musicians to aggregating stores, e.g. iTunes, Amazon
+### [Distrokid](https://distrokid.com/) changes pricing for distributing music to aggregating stores, e.g. iTunes, Amazon Music, etc
 
 * Existing Competitor Pricing Model:  per track or per album fees with revenue sharing
 * New Pricing Model:  Low annual subscription fee with unlimited uploads & no revenue sharing $\Longrightarrow$ more earned income goes directly to artist
@@ -215,13 +216,13 @@ composers, classical, and jazz musicians
 composers, classical, and jazz musicians
 * Bandcamp may be best platform for direct digital music sales by an
 independent musician without strong label backing
-* Distrokid may be best platform for digital music distribution to dominant
-online sales platforms, e.g. Itunes, Amazon Music
-* Detailed Recommendations are shown in following two slides
+* Distrokid may be best platform for digital music distribution to aggregating
+stores, e.g. Itunes, Amazon Music, etc
+* A strategic plan for independent musicians is shown in following two slides
 
 ---
 
-## Detailed Recommendations (Page 1 of 2)
+## Strategic Plan (Page 1 of 2)
 
 * Establish distribution account on [Distrokid](https://distrokid.com/) for 
 distribution of digital music
@@ -232,7 +233,7 @@ creating digital download codes
 
 ---
 
-## Detailed Recommendations (Page 2 of 2)
+## Strategic Plan (Page 2 of 2)
 * Develop touring network within social network
 
 1. Leverage musicans within social network that live in different cities book 
