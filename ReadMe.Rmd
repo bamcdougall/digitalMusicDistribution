@@ -1,0 +1,29 @@
+---
+title       : Digital Music Distribution
+subtitle    : Analyses for Independent Musicians
+author      : B.A. McDougall
+job         : NSCI Consulting
+date        : Thursday, 6 April 2017
+output      : html_document
+---
+
+## Abstract
+
+This GitHub Repository contains **5** primary files:
+
+- **ReadMe.md** This file
+- **index.Rmd** index.Rmd is the file that generates the content of the Slidify 
+presentation using the command slidify('index.Rmd')
+- **index.md** index.md is an intermediate file in markdown format
+- **index.html** index.html is the Slidify presentation with primary content
+  in html format
+- **LICENSE.txt** LICENSE.txt is the GNU GENERAL PUBLIC LICENSE, Version 2
+
+
+Use of **index.html** is intended for viewing from the gh-pages branch  of 
+Github and is a Slidify presentation.  Here is the 
+[link](https://bamcdougall.github.io/digitalMusicDistribution).  The file 
+provides a brief description of the market
+size and competitive landscape of the music industry as relevant to the
+independent musician.  A brief description of platforms for digital sales and
+distibution of recordings also is provided.
