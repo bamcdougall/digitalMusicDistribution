@@ -7,6 +7,7 @@ framework   : io2012     # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : [mathjax, bootstrap]            # {mathjax, quiz, bootstrap}
+ext_widgets: {rCharts: [libraries/nvd3, libraries/leaflet]}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
@@ -222,40 +223,131 @@ stores, e.g. Itunes, Amazon Music, etc
 
 ---
 
-## Strategic Plan (Page 1 of 2)
+## Strategic Plan (Page 1 of)
 
-* Establish distribution account on [Distrokid](https://distrokid.com/) for 
-distribution of digital music
-* Establish either label or artist presence on 
+### Primary Assumptions of Musician / Artist
+* Releasing track / album
+* Live performance tour is planned (arbitrarily restricted to California)
+* Minimal budget for touring by artist
+* Fans have low to moderate interest or have low discretionary funds
+* Musician / Artisit expects profit
+* Appearances hosted by venue with revenue based on door charge & merchandising
+* Travel costs estimated by
+[IRS](https://www.irs.gov/tax-professionals/standard-mileage-rates/) for mileage
+and [FederalPay.org](https://www.federalpay.org/perdiem/2017/california) for 
+meals and lodging
+
+---
+
+## Strategic Plan (Page 2 of)
+
+### Key Elements
+1. Market Outreach
+2. Release Track / Album
+3. Market Outreach 
+4. Execute Tour 
+5. Continue Market Outreach until Track / Album Sales decay to 20% of peak sales
+
+### Key Resources
+* Market Outreach on Social Media:  Facebook, Twitter, YouTube, BandsinTown,
+BandCamp, and MixCloud
+* Direct digital sales on BandCamp
+* Digital distribution through Distrokid
+* Optional:  Large white vinyl window decal on tour vehicle with URL to BandCamp
+
+---
+
+## Strategic Plan (Page 3 of)
+
+### Establish Digital Music Presence (Revenue)
+
+1. Establish either label or artist presence on 
 [Bandcamp](https://bandcamp.com/fair_trade_music_policy) for direct sales and for 
 creating digital download codes
-* 
+2. Establish distribution account on [Distrokid](https://distrokid.com/) for 
+distribution of digital music
+
+### Establish Social Media Presence (Marketing)
+1. Establish presence on [Facebook](https://www.facebook.com) that develops intimacy
+with fans (recommend two photos per week & consider FB Live for <30s video clip,
+but video should release through YouTube)
+2. Establish presence on [Twitter](https://www.twitter.com) that keeps fans informed
+about appearances, sprinkles in humorous observations, and URLs to digital sales
+3. Establish presence on [Youtube](https://www.youtube.com) to share short (<60s)
+video clips to Facebook and / or Twitter
+4. Establish presence on [MixCloud](https://www.mixcould.com) to share extended 
+sets
+5. Use [URL Shortener](https://goo.gl/) to reduce URL length for Twitter character
+limit
 
 ---
 
-## Strategic Plan (Page 2 of 2)
-* Develop touring network within social network
+## Strategic Plan (Page 4 of )
 
-1. Leverage musicans within social network that live in different cities book 
-club dates for your performance
-2. Stay with those musicians to reduce cost of touring
-3. Provide similar resources to those musicans in your hometown
-
-* Target merchandising for sales at live performances
-
+### Merchandising
 1. Generate 4 pg CD jacket that enables digital downloads, but sells at cost of 
 physical CD
-2. Front page - Musician portrait or typical cover art
-3. Inside left page - Intentionally blank for autograph by artist
-4. Inside right page - License code that enables single-use download of single 
-track or album
-5. Back page - Additional artwork and legal disclosures
-6. Package CD jacket in cellophane wrapper
-7. Format enables music sales, but less cumbersome than actual CDs
+
+* Front page - Musician portrait or cover art
+* Inside left page - Intentionally blank for autograph by artist
+* Inside right page - digital download code that enables single-use download of single 
+track or album, track list, and / or additional artwork or image 
+* Back page - Additional artwork, credits, and / or legal disclosures
+* Package CD jacket in cellophane wrapper
+* COMMENT: format enables music sales, but less cumbersome than actual CDs
+
+###  Direct Marketing for Venues
+1. Generate full page (portrait) cut-sheet that markets musician / artist for 
+review by venue's booking agent
+* Include links to Social Media
+* Report engagement statistics from Social Media
+* Include link to $\leq$ 60s video clip of performance
+* Host same page on website
 
 ---
+
+## Strategic Plan (Page 4 of)
+
+### Develop resource network for guerrilla touring
+
+1. Identify fans in target tour cities that will support you:
+* Make contact with target venue and close booking using cut-sheet
+* Host you while making appearance in their city
+* Assist with supporting door & and merchandising sales
+* Reimbursement:  the experience and complimentary entry + 1
+
+---
+
+## Strategic Plan (Page  of )
+
+### Revenue Model for Guerrilla Tour:  50% margin
+* Venue keeps bar
+* Musician / Artist keeps door
+* Entry:  $20
+* Average cost per city based on per diem & milage: ~$230
+* Door $\geq$ $460 or Head Count 23^+
+* Based on 8 hour day, wage equivalent is $28.75 per hour
+* Low cost of Guerrilla Tour enables weekday events $\Longrightarrow$ reduces
+tour complexity
+
+---
+
+## Conclusions
+
+* Guerrilla Touring provides revenue consistent with measured income profile of
+musicans
+* Available digital sales and digital distribution platforms enable track / 
+album sales with low margin $\Longrightarrow$ greater revenue to muscian
+* Available social media enables low cost marketing outreach to fanbase
 
 ## Survey 
 * Please click the [Link](https://goo.gl/forms/hfLuFQSti5xIxs8J2) to our survey
 that is hosted on Google
-* Your survey responses help improve this presentation
+* Your survey responses help improve this presentation for us
+
+---
+
+m = leaflet() %>%
+addTiles() %>%
+addMarkers(lat=39.298113, lng=-76.590248, popup="Where Brian works")
+m
