@@ -7,6 +7,7 @@ framework   : io2012     # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : [mathjax, bootstrap]            # {mathjax, quiz, bootstrap}
+ext_widgets: {rCharts: [libraries/nvd3, libraries/leaflet]}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
@@ -224,15 +225,39 @@ stores, e.g. Itunes, Amazon Music, etc
 
 ## Strategic Plan (Page 1 of 2)
 
+### Primary Assumptions of Musician / Artist
+* Releasing track / album
+* Live performance tour is planned (arbitrarily restricted to California)
+* Minimal budget for touring by artist
+* Fans have low to moderate interest or have low discretionary funds
+* Musician / Artisit plans to break-even or profit
+
+
+---
+
+## Strategic Plan (Page 1 of 2)
+
+### Establish Digital Music Presence (Revenue)
+
 * Establish distribution account on [Distrokid](https://distrokid.com/) for 
 distribution of digital music
 * Establish either label or artist presence on 
 [Bandcamp](https://bandcamp.com/fair_trade_music_policy) for direct sales and for 
 creating digital download codes
-* 
+
+### Establish Social Media Presence (Marketing)
+* Establish presence on [Facebook](https://www.facebook.com) that develops intimacy
+with fans (recommend two photos per week & consider FB Live for <30s video clip)
+* Establish presence on [Twitter](https://www.twitter.com) that keeps fans informed
+about appearances and sprinkles in humorous observations
+* Establish presence on [Youtube](https://www.youtube.com) to share short (<60s)
+video clips to Facebook and / or Twitter
+* Establish presence on [MixCloud](https://www.mixcould.com) to share extended sets
+* Use [URL Shortener](https://goo.gl/) to reduce URL length for Twitter character
+limit
+
 
 ---
-
 ## Strategic Plan (Page 2 of 2)
 * Develop touring network within social network
 
@@ -259,3 +284,10 @@ track or album
 * Please click the [Link](https://goo.gl/forms/hfLuFQSti5xIxs8J2) to our survey
 that is hosted on Google
 * Your survey responses help improve this presentation
+
+---
+
+m = leaflet() %>%
+addTiles() %>%
+addMarkers(lat=39.298113, lng=-76.590248, popup="Where Brian works")
+m

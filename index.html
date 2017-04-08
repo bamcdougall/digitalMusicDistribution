@@ -14,6 +14,11 @@
   <link rel="stylesheet" href="libraries/frameworks/io2012/css/slidify.css" >
   <link rel="stylesheet" href="libraries/highlighters/highlight.js/css/tomorrow.css" />
   <base target="_blank"> <!-- This amazingness opens all links in a new tab. -->  <link rel=stylesheet href="libraries/widgets/bootstrap/css/bootstrap.css"></link>
+<link rel=stylesheet href="libraries/widgets/nvd3/css/nv.d3.css"></link>
+<link rel=stylesheet href="libraries/widgets/nvd3/css/rNVD3.css"></link>
+<link rel=stylesheet href="libraries/widgets/leaflet/external/leaflet.css"></link>
+<link rel=stylesheet href="libraries/widgets/leaflet/external/leaflet-rCharts.css"></link>
+<link rel=stylesheet href="libraries/widgets/leaflet/external/legend.css"></link>
 
   
   <!-- Grab CDN jQuery, fall back to local if offline -->
@@ -23,7 +28,14 @@
     src="libraries/frameworks/io2012/js/require-1.0.8.min.js">
   </script>
   
-  
+  <script src="libraries/widgets/nvd3/js/jquery-1.8.2.min.js"></script>
+<script src="libraries/widgets/nvd3/js/d3.v3.min.js"></script>
+<script src="libraries/widgets/nvd3/js/nv.d3.min-new.js"></script>
+<script src="libraries/widgets/nvd3/js/fisheye.js"></script>
+<script src="libraries/widgets/leaflet/external/leaflet.js"></script>
+<script src="libraries/widgets/leaflet/external/leaflet-providers.js"></script>
+<script src="libraries/widgets/leaflet/external/Control.FullScreen.js"></script>
+
 
 </head>
 <body style="opacity: 0">
@@ -665,13 +677,14 @@ stores, e.g. Itunes, Amazon Music, etc</li>
     <h2>Strategic Plan (Page 1 of 2)</h2>
   </hgroup>
   <article data-timings="">
-    <ul>
-<li>Establish distribution account on <a href="https://distrokid.com/">Distrokid</a> for 
-distribution of digital music</li>
-<li>Establish either label or artist presence on 
-<a href="https://bandcamp.com/fair_trade_music_policy">Bandcamp</a> for direct sales and for 
-creating digital download codes</li>
-<li></li>
+    <h3>Primary Assumptions of Musician / Artist</h3>
+
+<ul>
+<li>Releasing track / album</li>
+<li>Live performance tour is planned (arbitrarily restricted to California)</li>
+<li>Minimal budget for touring by artist</li>
+<li>Fans have low to moderate interest or have low discretionary funds</li>
+<li>Musician / Artisit plans to break-even or profit</li>
 </ul>
 
   </article>
@@ -679,6 +692,39 @@ creating digital download codes</li>
 </slide>
 
 <slide class="" id="slide-14" style="background:;">
+  <hgroup>
+    <h2>Strategic Plan (Page 1 of 2)</h2>
+  </hgroup>
+  <article data-timings="">
+    <h3>Establish Digital Music Presence (Revenue)</h3>
+
+<ul>
+<li>Establish distribution account on <a href="https://distrokid.com/">Distrokid</a> for 
+distribution of digital music</li>
+<li>Establish either label or artist presence on 
+<a href="https://bandcamp.com/fair_trade_music_policy">Bandcamp</a> for direct sales and for 
+creating digital download codes</li>
+</ul>
+
+<h3>Establish Social Media Presence (Marketing)</h3>
+
+<ul>
+<li>Establish presence on <a href="https://www.facebook.com">Facebook</a> that develops intimacy
+with fans (recommend two photos per week &amp; consider FB Live for &lt;30s video clip)</li>
+<li>Establish presence on <a href="https://www.twitter.com">Twitter</a> that keeps fans informed
+about appearances and sprinkles in humorous observations</li>
+<li>Establish presence on <a href="https://www.youtube.com">Youtube</a> to share short (&lt;60s)
+video clips to Facebook and / or Twitter</li>
+<li>Establish presence on <a href="https://www.mixcould.com">MixCloud</a> to share extended sets</li>
+<li>Use <a href="https://goo.gl/">URL Shortener</a> to reduce URL length for Twitter character
+limit</li>
+</ul>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+<slide class="" id="slide-15" style="background:;">
   <hgroup>
     <h2>Strategic Plan (Page 2 of 2)</h2>
   </hgroup>
@@ -714,7 +760,7 @@ track or album</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-15" style="background:;">
+<slide class="" id="slide-16" style="background:;">
   <hgroup>
     <h2>Survey</h2>
   </hgroup>
@@ -724,6 +770,17 @@ track or album</li>
 that is hosted on Google</li>
 <li>Your survey responses help improve this presentation</li>
 </ul>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+<slide class="" id="slide-17" style="background:;">
+  <article data-timings="">
+    <p>m = leaflet() %&gt;%
+addTiles() %&gt;%
+addMarkers(lat=39.298113, lng=-76.590248, popup=&quot;Where Brian works&quot;)
+m</p>
 
   </article>
   <!-- Presenter Notes -->
@@ -813,14 +870,26 @@ that is hosted on Google</li>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=14 title='Strategic Plan (Page 2 of 2)'>
+        data-slide=14 title='Strategic Plan (Page 1 of 2)'>
          14
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=15 title='Survey'>
+        data-slide=15 title='Strategic Plan (Page 2 of 2)'>
          15
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=16 title='Survey'>
+         16
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=17 title='NA'>
+         17
       </a>
     </li>
   </ul>
