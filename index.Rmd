@@ -223,7 +223,7 @@ stores, e.g. Itunes, Amazon Music, etc
 
 ---
 
-## Strategic Plan:  Guerilla Sales & Touring (1 of 7)
+## Strategic Plan:  Guerilla Sales & Touring (1/7)
 
 ### Primary Assumptions of Musician / Artist
 * Releasing track / album
@@ -239,7 +239,7 @@ meals and lodging
 
 ---
 
-## Strategic Plan:  Guerilla Sales & Touring (2 of 7)
+## Strategic Plan:  Guerilla Sales & Touring (2/7)
 
 ### Revenue Model for Guerrilla Tour:  50% margin
 * Appearances hosted by venue with revenue sharing
@@ -255,7 +255,7 @@ tour complexity
 
 ---
 
-## Strategic Plan:  Guerilla Sales & Touring (3 of 7)
+## Strategic Plan:  Guerilla Sales & Touring (3/7)
 
 ### Key Elements & Timeline of Business Plan
 1. Market Outreach
@@ -273,7 +273,7 @@ BandCamp, and MixCloud
 
 ---
 
-## Strategic Plan:  Guerilla Sales & Touring (4 of 7)
+## Strategic Plan:  Guerilla Sales & Touring (4/7)
 
 ### Establish Digital Music Presence (Revenue)
 
@@ -298,7 +298,7 @@ limit
 
 ---
 
-## Strategic Plan:  Guerilla Sales & Touring (5 of 7)
+## Strategic Plan:  Guerilla Sales & Touring (5/7)
 
 ### Merchandising
 
@@ -318,7 +318,7 @@ track or album, track list, and / or additional artwork or image
 
 ---
 
-## Strategic Plan:  Guerilla Sales & Touring (6 of 7)
+## Strategic Plan:  Guerilla Sales & Touring (6/7)
 
 ###  Direct Marketing for Venues
 1. Generate full page cut-sheet that markets musician / artist for 
@@ -331,7 +331,7 @@ review by venue's booking agent
 
 ---
 
-## Strategic Plan:  Guerilla Sales & Touring (7 of 7)
+## Strategic Plan:  Guerilla Sales & Touring (7/7)
 
 ### OPTIONAL:  develop resource network for guerrilla touring
 
