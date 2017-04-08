@@ -1,6 +1,6 @@
 ---
-title       : Digital Music Distribution
-subtitle    : Analyses for Independent Musicians
+title       : Revenue Streams for Musicians / Artists from Digital Media Distribution & Live Performance
+subtitle    : Analyses for Independent Musicians / Artists
 author      : B.A. McDougall
 job         : NSCI Consulting
 framework   : io2012     # {io2012, html5slides, shower, dzslides, ...}
@@ -20,16 +20,16 @@ knit        : slidify::knit2slides
 * Work Profile of Musicians
 * Benefits of Streaming Music for Musicians
 * Platforms for Distribution of Digital Music
-* Conclusions
+* Summary
 * Strategic Plan
-* Survey
+* Final Conclusions & Survey
 
 ---
 
 ## Market Size of US Music Industry 2015
 * [Recording Industry Association of America](https://www.riaa.com/reports/riaa-2015-year-end-sales-shipments-data-report-riaa/) (RIAA)
   reports Market Size for 2015 at $4.95B
-* Digital Format is 71.2% of market size ($3.52B)
+* Digital Format is 71.2% of market size at $3.52B
 
 ### Digital Sales
 * Singles: 1.021B --> $1.227B
@@ -120,7 +120,7 @@ Percentile | 10% | 25% | 50% (median) | Mean | 75% | 90%
  Hourly Wage | $9.20 | $13.20 | $24.20 | $33.62 | $44.01 | $68.98
  
 * In Oakland-Hayward-Berkeley, CA Metropolitan Division, average hourly wage is 
-$48.12 for a population of 440 employees^1
+$48.12 for a population of 440 employees^2
 
 1. Peter C. DiCola, "Money from Music: Survey Evidence on Musicians'
 Revenue and Lessons About Copyright Incentives", 55 Arizona Law Review 301
@@ -209,7 +209,7 @@ mora | 4.4 |  |  | |
 
 ---
 
-## Conclusions
+## Summary
 
 * Live performance is dominant revenue stream for musicians excluding
 composers, classical, and jazz musicians
@@ -219,19 +219,19 @@ composers, classical, and jazz musicians
 independent musician without strong label backing
 * Distrokid may be best platform for digital music distribution to aggregating
 stores, e.g. Itunes, Amazon Music, etc
-* A strategic plan for independent musicians is shown in following two slides
+* A strategic plan for independent musicians is shown in following 7 slides
 
 ---
 
-## Strategic Plan (Page 1 of)
+## Strategic Plan:  Guerilla Sales & Touring (Page 1 of 7)
 
 ### Primary Assumptions of Musician / Artist
 * Releasing track / album
 * Live performance tour is planned (arbitrarily restricted to California)
+* Tour cities have either University of California or California State University
 * Minimal budget for touring by artist
 * Fans have low to moderate interest or have low discretionary funds
-* Musician / Artisit expects profit
-* Appearances hosted by venue with revenue based on door charge & merchandising
+* Musician / Artist expects profit
 * Travel costs estimated by
 [IRS](https://www.irs.gov/tax-professionals/standard-mileage-rates/) for mileage
 and [FederalPay.org](https://www.federalpay.org/perdiem/2017/california) for 
@@ -239,25 +239,41 @@ meals and lodging
 
 ---
 
-## Strategic Plan (Page 2 of)
+## Strategic Plan:  Guerilla Sales & Touring (Page 2 of 7)
 
-### Key Elements
+### Revenue Model for Guerrilla Tour:  50% margin
+* Appearances hosted by venue with revenue sharing
+* Venue keeps bar / concession
+* Musician / Artist keeps door and merchandising
+* Entry:  $20
+* Average cost per city based on per diem & milage: ~$230
+* With 50% margin, Door $\geq$ $460 implies Head Count 23^+
+* Based on 8 hour day, wage equivalent is $28.75 per hour for musician / artist
+* Low cost and low head count for Guerrilla Tour enables weekday events
+$\Longrightarrow$ reduces
+tour complexity
+
+---
+
+## Strategic Plan:  Guerilla Sales & Touring (Page 3 of 7)
+
+### Key Elements & Timeline of Business Plan
 1. Market Outreach
 2. Release Track / Album
 3. Market Outreach 
 4. Execute Tour 
 5. Continue Market Outreach until Track / Album Sales decay to 20% of peak sales
 
-### Key Resources
+### Key Resources for Business Plan
 * Market Outreach on Social Media:  Facebook, Twitter, YouTube, BandsinTown,
 BandCamp, and MixCloud
-* Direct digital sales on BandCamp
+* Direct digital sales through BandCamp
 * Digital distribution through Distrokid
 * Optional:  Large white vinyl window decal on tour vehicle with URL to BandCamp
 
 ---
 
-## Strategic Plan (Page 3 of)
+## Strategic Plan:  Guerilla Sales & Touring (Page 4 of 7)
 
 ### Establish Digital Music Presence (Revenue)
 
@@ -276,16 +292,18 @@ about appearances, sprinkles in humorous observations, and URLs to digital sales
 3. Establish presence on [Youtube](https://www.youtube.com) to share short (<60s)
 video clips to Facebook and / or Twitter
 4. Establish presence on [MixCloud](https://www.mixcould.com) to share extended 
-sets
+sets (SoundCloud limits time $\leq$ 3 hr; else, pay-wall)
 5. Use [URL Shortener](https://goo.gl/) to reduce URL length for Twitter character
 limit
 
 ---
 
-## Strategic Plan (Page 4 of )
+## Strategic Plan:  Guerilla Sales & Touring (Page 5 of 7)
 
 ### Merchandising
-1. Generate 4 pg CD jacket that enables digital downloads, but sells at cost of 
+
+1.  T-shirts:  must sell for $20^+ with 50% margin
+2. Generate 4 pg CD jacket that enables digital downloads, but sells at cost of 
 physical CD
 
 * Front page - Musician portrait or cover art
@@ -296,9 +314,16 @@ track or album, track list, and / or additional artwork or image
 * Package CD jacket in cellophane wrapper
 * COMMENT: format enables music sales, but less cumbersome than actual CDs
 
+
+
+---
+
+## Strategic Plan:  Guerilla Sales & Touring (Page 6 of 7)
+
 ###  Direct Marketing for Venues
-1. Generate full page (portrait) cut-sheet that markets musician / artist for 
+1. Generate full page cut-sheet that markets musician / artist for 
 review by venue's booking agent
+
 * Include links to Social Media
 * Report engagement statistics from Social Media
 * Include link to $\leq$ 60s video clip of performance
@@ -306,36 +331,23 @@ review by venue's booking agent
 
 ---
 
-## Strategic Plan (Page 4 of)
+## Strategic Plan:  Guerilla Sales & Touring (Page 7 of 7)
 
-### Develop resource network for guerrilla touring
+### OPTIONAL:  develop resource network for guerrilla touring
 
-1. Identify fans in target tour cities that will support you:
-* Make contact with target venue and close booking using cut-sheet
-* Host you while making appearance in their city
-* Assist with supporting door & and merchandising sales
+1. Identify fans in target tour cities that will support you by:
+
+* Making contact with target venue and close booking using cut-sheet
+* Hosting you while making appearance in their city
+* Assisting with supporting door & and merchandising sales
 * Reimbursement:  the experience and complimentary entry + 1
 
 ---
 
-## Strategic Plan (Page  of )
+## Final Conclusions
 
-### Revenue Model for Guerrilla Tour:  50% margin
-* Venue keeps bar
-* Musician / Artist keeps door
-* Entry:  $20
-* Average cost per city based on per diem & milage: ~$230
-* Door $\geq$ $460 or Head Count 23^+
-* Based on 8 hour day, wage equivalent is $28.75 per hour
-* Low cost of Guerrilla Tour enables weekday events $\Longrightarrow$ reduces
-tour complexity
-
----
-
-## Conclusions
-
-* Guerrilla Touring provides revenue consistent with measured income profile of
-musicans
+* Guerrilla Sales & Touring provides revenue consistent with measured income 
+profile of musicans
 * Available digital sales and digital distribution platforms enable track / 
 album sales with low margin $\Longrightarrow$ greater revenue to muscian
 * Available social media enables low cost marketing outreach to fanbase
@@ -344,10 +356,3 @@ album sales with low margin $\Longrightarrow$ greater revenue to muscian
 * Please click the [Link](https://goo.gl/forms/hfLuFQSti5xIxs8J2) to our survey
 that is hosted on Google
 * Your survey responses help improve this presentation for us
-
----
-
-m = leaflet() %>%
-addTiles() %>%
-addMarkers(lat=39.298113, lng=-76.590248, popup="Where Brian works")
-m
