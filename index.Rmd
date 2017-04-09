@@ -90,7 +90,7 @@ Hawaiian Music Record Companies
 
 Item | Total | Teens (13-17) | Millenials (18-34)
 ---|---|---|---
-Amout ($) | $152 | $80 | $163
+Amount ($) | $152 | $80 | $163
 Live Music Concerts | 32% | 31% | 29%
 Music Festivals | 10% | 9% | 17%
 Satellite Radio Subscription | 11% | 1% | 5%
@@ -289,7 +289,7 @@ distribution of digital music
 
 ### Establish Social Media Presence (Marketing)
 1. Establish presence on [Facebook](https://www.facebook.com) that develops intimacy
-with fans (recommend two photos per week & consider FB Live for <30s video clip,
+with fans (minimally two photos per week & consider FB Live for <30s video clip,
 but video should release through YouTube)
 2. Establish presence on [Twitter](https://www.twitter.com) that keeps fans informed
 about appearances, sprinkles in humorous observations, and URLs to digital sales
@@ -351,7 +351,7 @@ review by venue's booking agent
 ## Final Conclusions
 
 * Guerrilla Sales & Touring provides revenue consistent with measured income 
-profile of musicans
+profile of musicians
 * Guerrilla Sales & Touring reduces complexity by enabling use of small clubs
 and small attendance head counts
 * Available digital sales and digital distribution platforms enable track / 
