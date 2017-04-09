@@ -228,7 +228,7 @@ stores, e.g. Itunes, Amazon Music, etc
 ### Primary Assumptions of Musician / Artist
 * Releasing track / album
 * Live performance tour is planned (arbitrarily restricted to California)
-* Tour cities have either
+* [Tour cities]( ./assets/img/tourTbl.PNG) have either
 [University of California](https://en.wikipedia.org/wiki/University_of_California)
 and / or
 [California State University](https://en.wikipedia.org/wiki/California_State_University#cite_note-calstate.edu-73)
@@ -250,9 +250,9 @@ meals and lodging
 * Venue keeps bar / concession
 * Musician / Artist keeps door and merchandising
 * Entry:  $20
-* Average cost per city based on per diem & milage: ~$230
-* With 50% margin, Door $\geq$ $460 implies Head Count 23^+
-* Based on 8 hour day, wage equivalent is $28.75 per hour for musician / artist
+* Average dollar cost per city based on per diem & milage is $212 \pm 54$
+* Assuming 266 dollar cost & 50% margin, Door $\geq$ $532 implies Head Count 27^+
+* Based on 8 hour day, wage equivalent is $33.25 per hour for musician / artist
 * Low cost and low head count for Guerrilla Tour enables weekday events
 $\Longrightarrow$ reduces
 tour complexity
@@ -352,6 +352,8 @@ review by venue's booking agent
 
 * Guerrilla Sales & Touring provides revenue consistent with measured income 
 profile of musicans
+* Guerrilla Sales & Touring reduces complexity by enabling use of small clubs
+and small attendance head counts
 * Available digital sales and digital distribution platforms enable track / 
 album sales with low margin $\Longrightarrow$ greater revenue to muscian
 * Available social media enables low cost marketing outreach to fanbase
