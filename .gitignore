@@ -1,6 +1,7 @@
 # No csv files
 # *.gitignore
-# *.csv
+*.csv
+*.R
 *.Rdata
 *.Rhistory
 *.zip
@@ -11,3 +12,5 @@
 # *.Rmd
 # *.txt
 # *.png
+environment.txt
+fileList.txt

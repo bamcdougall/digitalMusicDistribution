@@ -228,7 +228,11 @@ stores, e.g. Itunes, Amazon Music, etc
 ### Primary Assumptions of Musician / Artist
 * Releasing track / album
 * Live performance tour is planned (arbitrarily restricted to California)
-* Tour cities have either University of California or California State University
+* Tour cities have either
+[University of California](https://en.wikipedia.org/wiki/University_of_California)
+and / or
+[California State University](https://en.wikipedia.org/wiki/California_State_University#cite_note-calstate.edu-73)
+campus
 * Minimal budget for touring by artist
 * Fans have low to moderate interest or have low discretionary funds
 * Musician / Artist expects profit
