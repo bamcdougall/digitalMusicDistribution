@@ -363,20 +363,19 @@ track or album, track list, and / or additional artwork or image
 
 ## Final Conclusions
 
-* Guerrilla Sales & Touring provides revenue consistent with measured income 
-profile of musicians
+* Guerrilla Sales & Touring generates revenue consistent with measured income 
+profile
 * Guerrilla Sales & Touring reduces complexity by enabling use of small clubs
-and small attendance head counts
 * Available digital sales and digital distribution platforms enable track / 
 album sales with low margin $\Longrightarrow$ greater revenue to muscian
 * Available social media enables low cost marketing outreach to fanbase
-* CLAIM:  with minor adaptation, Guerrilla Sales and Touring is applicable to
-artists in different media
-* SCALING: inclusion of more musicians, artists reguires an increase in headcount,
+* CLAIM:  minor adaptation, Guerrilla Sales and Touring applies to
+artists in other media
+* SCALING: inclusion of more tour musicians / artists reguires increase in headcount,
 so each performer earns income
 * SCALING:  One additional artist, assuming shared vehicle
-and shared room, would require an additional headcount per event of 18^+ to
-cover income and meals per diem
+and shared room, requires additional headcount per event of 18^+ to
+cover their income and meals per diem
 
 ---
 
