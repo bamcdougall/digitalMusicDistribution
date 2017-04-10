@@ -16,7 +16,11 @@ This GitHub Repository contains **5** primary files:
 presentation using the command slidify('index.Rmd')
 - **index.md** index.md is an intermediate file in markdown format
 - **index.html** index.html is the Slidify presentation with primary content
-  in html format
+in html format
+- **GuerrillaTourCities.R** GuerrillaTourCities.R is an R script that interfaces
+with the googleMaps API to get geocodes for proposed cities comprising a tour,
+sort the cities by latitude, then longitude, and get distances & drive times
+between cities. The script also tracks per diem costs by city.
 - **LICENSE.txt** LICENSE.txt is the GNU GENERAL PUBLIC LICENSE, Version 2
 
 
