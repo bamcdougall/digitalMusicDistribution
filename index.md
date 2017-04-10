@@ -371,7 +371,7 @@ album sales with low margin $\Longrightarrow$ greater revenue to muscian
 * Available social media enables low cost marketing outreach to fanbase
 * CLAIM:  minor adaptation, Guerrilla Sales and Touring applies to
 artists in other media
-* SCALING: inclusion of more tour musicians / artists reguires increase in headcount,
+* SCALING: inclusion of more tour musicians / artists requires increase in headcount,
 so each performer earns income
 * SCALING:  One additional artist, assuming shared vehicle
 and shared room, requires additional headcount per event of 18^+ to
