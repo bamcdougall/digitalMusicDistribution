@@ -1,7 +1,7 @@
 # No csv files
 # *.gitignore
 *.csv
-*.R
+# *.R
 *.Rdata
 *.Rhistory
 *.zip

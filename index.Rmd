@@ -22,7 +22,9 @@ knit        : slidify::knit2slides
 * Platforms for Distribution of Digital Music
 * Summary
 * Strategic Plan
-* Final Conclusions & Survey
+* Final Conclusions
+* Survey
+* Appendix
 
 ---
 
@@ -221,11 +223,15 @@ composers, classical, and jazz musicians
 independent musician without strong label backing
 * Distrokid may be best platform for digital music distribution to aggregating
 stores, e.g. Itunes, Amazon Music, etc
-* A strategic plan for independent musicians is shown in following 7 slides
+* A strategic plan (guerrilla approach) for independent musicians is shown in 
+following 7 slides
+* DEFINITION: here, guerrilla means unconventional with little budget
+* CLAIM:  with some adaptation, this guerrilla strategic plan works for artists 
+in different media - print, film, spoken word, video
 
 ---
 
-## Strategic Plan:  Guerilla Sales & Touring (1/7)
+## Strategic Plan:  Guerrilla Sales & Touring (1/7)
 
 ### Primary Assumptions of Musician / Artist
 * Releasing track / album
@@ -242,10 +248,14 @@ campus
 [IRS](https://www.irs.gov/tax-professionals/standard-mileage-rates/) for mileage
 and [FederalPay.org](https://www.federalpay.org/perdiem/2017/california) for 
 meals and lodging
+* NOTE:  [Tour cities]( ./assets/img/tourTbl.PNG) link shows a tabular 
+summary of 27 suggested cities with per diem cost, drive distances, and drive 
+times to each starting from Arcata, CA and ending in San Diego, CA (table
+also shown in Appendix)
 
 ---
 
-## Strategic Plan:  Guerilla Sales & Touring (2/7)
+## Strategic Plan:  Guerrilla Sales & Touring (2/7)
 
 ### Revenue Model for Guerrilla Tour:  50% margin
 * Appearances hosted by venue with revenue sharing
@@ -261,7 +271,7 @@ tour complexity
 
 ---
 
-## Strategic Plan:  Guerilla Sales & Touring (3/7)
+## Strategic Plan:  Guerrilla Sales & Touring (3/7)
 
 ### Key Elements & Timeline of Business Plan
 1. Market Outreach
@@ -279,7 +289,7 @@ BandCamp, and MixCloud
 
 ---
 
-## Strategic Plan:  Guerilla Sales & Touring (4/7)
+## Strategic Plan:  Guerrilla Sales & Touring (4/7)
 
 ### Establish Digital Music Presence (Revenue)
 
@@ -304,11 +314,11 @@ limit
 
 ---
 
-## Strategic Plan:  Guerilla Sales & Touring (5/7)
+## Strategic Plan:  Guerrilla Sales & Touring (5/7)
 
 ### Merchandising
 
-1.  T-shirts:  must sell for $20^+ with 50% margin
+1.  T-shirts:  must sell for $20^+ with 50% margin; else, eliminate
 2. Generate 4 pg CD jacket that enables digital downloads, but sells at cost of 
 physical CD
 
@@ -324,7 +334,7 @@ track or album, track list, and / or additional artwork or image
 
 ---
 
-## Strategic Plan:  Guerilla Sales & Touring (6/7)
+## Strategic Plan:  Guerrilla Sales & Touring (6/7)
 
 ###  Direct Marketing for Venues
 
@@ -338,7 +348,7 @@ track or album, track list, and / or additional artwork or image
 
 ---
 
-## Strategic Plan:  Guerilla Sales & Touring (7/7)
+## Strategic Plan:  Guerrilla Sales & Touring (7/7)
 
 ### OPTIONAL:  develop resource network for guerrilla touring
 
@@ -360,8 +370,21 @@ and small attendance head counts
 * Available digital sales and digital distribution platforms enable track / 
 album sales with low margin $\Longrightarrow$ greater revenue to muscian
 * Available social media enables low cost marketing outreach to fanbase
+* CLAIM:  with minor adaptation, Guerrilla Sales and Touring is applicable to
+artists in different media
+* SCALING: inclusion of more musicians, artists reguires an increase in headcount,
+so each performer earns income
+* SCALING:  One additional artist, assuming shared vehicle
+and shared room, would require an additional headcount per event of 18^+ to
+cover income and meals per diem
+
+---
 
 ## Survey 
 * Please click the [Link](https://goo.gl/forms/hfLuFQSti5xIxs8J2) to our survey
 that is hosted on Google
 * Your survey responses help improve this presentation for us
+
+---
+
+## Appendix: ![Tour cities]( ./assets/img/tourTbl.PNG)
