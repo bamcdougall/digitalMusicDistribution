@@ -59,11 +59,13 @@ Sony | 22.4% | $4.32B^3
 Warner | 17.4% | $3.35^3
 Independents | 31.3% | $6.03^3
 
+
 1.  GLOBAL MARKET SHARES 2016: SONY AND WARNER GAIN ON UNIVERSAL, AS INDIES RULE
 [Music Business Worldwide](http://www.musicbusinessworldwide.com/global-market-shares-2016-sony-and-warner-gain-on-universal-as-indies-rule/)
 2. Universal Music 2016 Earnings: Streaming Drove Revenue Growth for Recordings,
 Publishing, [Billboard](http://www.billboard.com/articles/business/7701980/universal-music-group-2016-earnings-streaming)
 3. Estimated from the firm's % Global Recording Revenue and Universal's Global Recording Revenue
+
 
 ---
 
@@ -325,9 +327,10 @@ track or album, track list, and / or additional artwork or image
 ## Strategic Plan:  Guerilla Sales & Touring (6/7)
 
 ###  Direct Marketing for Venues
-1. Generate full page cut-sheet that markets musician / artist for 
-review by venue's booking agent
 
+### _Generate cut-sheet that markets musician / artist for review by venue's booking agent_
+
+* Include direct contact information
 * Include links to Social Media
 * Report engagement statistics from Social Media
 * Include link to $\leq$ 60s video clip of performance
@@ -339,7 +342,7 @@ review by venue's booking agent
 
 ### OPTIONAL:  develop resource network for guerrilla touring
 
-1. Identify fans in target tour cities that will support you by:
+### _Identify fans in target tour cities that will support you by:_
 
 * Making contact with target venue and close booking using cut-sheet
 * Hosting you while making appearance in their city
